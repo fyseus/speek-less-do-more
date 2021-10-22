@@ -6,9 +6,27 @@
 目前的尝试可能大致由几个地方开始：
 
 - leetcode的刷题
+- Git的笔记
+- Java SE
+- Java开发手册的笔记
 - java spring的学习
 - 其他待补充
 
 ## speek-less-do-more库名由来
 
 此句为程序员鱼皮🐟的所爱，作为一名大学生，我很羡慕且敬佩鱼皮，立志以其为榜样，只希望在最好的青春时代，不负韶华。
+
+## Java学习
+
+近期决定要好好系统地学习一下Java语言以及相应的框架了，夜不能寝的时候，刷牛客网，意识到自己得要有一个系统的学习路线，遂决定跟随黑马的Java学习路线，改过自新。
+
+其学习大致路线如下（又给自己开了个新坑）：
+
+- JavaSE（约1~2周时间，参考书目：Java从入门到入土）
+- Java Web（mysql、jdbc、html、css、JavaScript、xml、serverlet、tomcat等），配合数据结构和力扣
+- SSM、SpringBoot、SpringCloud等框架，配合计算机网络和os的复习，力扣刷题跟上
+- 项目（具体再设立）、力扣
+
+### Java SE
+
+Java从入门到入土好好看，好好学，其中Java Swing部分就跳过了。。
